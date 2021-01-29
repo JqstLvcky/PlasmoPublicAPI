@@ -1,0 +1,2 @@
+# PlasmoPublicAPI
+Plasmo Public API
